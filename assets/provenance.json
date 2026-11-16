@@ -1,0 +1,50 @@
+{
+  "note": "Editorial stock photographs used for mood only. None shows Brakefield's Pool Service, its owner, staff, customers, equipment or completed work.",
+  "license": {
+    "name": "Pexels License",
+    "url": "https://www.pexels.com/license/"
+  },
+  "photos": [
+    {
+      "file": "assets/images/denton-house.jpg",
+      "placement": "Masthead",
+      "source": "Pexels",
+      "photoId": 3958954,
+      "title": "White and Blue Wooden House",
+      "photographer": "Curtis Adams",
+      "page": "https://www.pexels.com/photo/white-and-blue-wooden-house-3958954/",
+      "originalFile": "https://images.pexels.com/photos/3958954/pexels-photo-3958954.jpeg",
+      "derivation": "Resized to 1600x1067 and re-compressed as JPEG. No other edits."
+    },
+    {
+      "file": "assets/images/pool-steps-tile.jpg",
+      "placement": "Pool know-how section",
+      "source": "Pexels",
+      "photoId": 4421349,
+      "title": "Design of Swimming Pool",
+      "photographer": "Santiago Manuel De la Colina",
+      "page": "https://www.pexels.com/photo/design-of-swimming-pool-4421349/",
+      "originalFile": "https://images.pexels.com/photos/4421349/pexels-photo-4421349.jpeg",
+      "derivation": "Resized to 1200x1600 and re-compressed as JPEG. No other edits."
+    }
+  ],
+  "fonts": [
+    {
+      "family": "Archivo Black",
+      "files": [
+        "assets/fonts/archivo-black-normal-400.woff2"
+      ],
+      "source": "Google Fonts (self-hosted, latin subset)",
+      "license": "SIL Open Font License 1.1"
+    },
+    {
+      "family": "Lora",
+      "files": [
+        "assets/fonts/lora-italic-400.woff2",
+        "assets/fonts/lora-normal-400_600.woff2"
+      ],
+      "source": "Google Fonts (self-hosted, latin subset)",
+      "license": "SIL Open Font License 1.1"
+    }
+  ]
+}
